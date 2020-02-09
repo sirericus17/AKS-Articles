@@ -1,0 +1,6 @@
+azure_region = "westus"
+kubernetes_version = "1.17.0"
+resource_group = "AksTerraform-RG"
+acr_name = "kofiacr"
+keyvault_rg = "AksTerraform-RG"
+keyvault_name = "kofikubevault"
